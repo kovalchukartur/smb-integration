@@ -1,1 +1,4 @@
-
+smb:
+  username: username
+  password: password
+  path: path
